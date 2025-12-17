@@ -1,0 +1,5 @@
+{
+  "name": "SocialPulse Analytics",
+  "description": "A comprehensive social media dashboard that parses Excel reports to visualize follower growth, reach, and engagement across platforms (FB, IG, TT, YT), powered by Gemini AI for strategic insights.",
+  "requestFramePermissions": []
+}
